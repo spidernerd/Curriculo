@@ -44,7 +44,7 @@ Basico, Avançado e em constante atualização
 4. Autodidata em Programação.
 5. Ótimo trabalho em equipe.
 6. Proativo.
-7. Responsavel.
+7. Responsável.
 
 ### Nas horas livres:
 Jogador profissional de Leaguen of legend e Country-Striker 1.6, fã de bibliotecas e Frameworks Javascript. 
