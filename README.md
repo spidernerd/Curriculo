@@ -25,7 +25,7 @@ Sou Autodidata com orgulho, isso sempre me ajudou a manter minha mente em consta
 Basico, Avançado e em constante atualização
 
 ## Experiência Profissional:
-**2013 - 2014 | Exídu México**<br>
+**2013 - 2014 | Vionico México**<br>
 **Cargo:** Programador e Designer<br>
 **Principais atividades:** Criação visual e programação do aplicativo.<br>
 ****
@@ -44,7 +44,7 @@ Basico, Avançado e em constante atualização
 4. Autodidata em Programação.
 5. Ótimo trabalho em equipe.
 6. Proativo.
-7. Responsável.
+7. Responsavel.
 
 ### Nas horas livres:
 Jogador profissional de Leaguen of legend e Country-Striker 1.6, fã de bibliotecas e Frameworks Javascript. 
