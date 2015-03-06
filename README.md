@@ -31,7 +31,7 @@ Basico, Avançado e em constante atualização
 ****
 **2010 - atualmente | Programador Full time**<br>
 **Cargo:** Programação<br>
-**Principais atividades:** Criação de sistemas, sites, Lojas virtuais.<br><br>
+**Principais atividades:** Construção de sistemas, sites, E-commerce.<br><br>
 ****
 **2008 - atualmente | Designer Gráfico e Ilustrador**<br>
 **Cargo:** Designer e Ilustrador<br>
