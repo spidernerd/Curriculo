@@ -7,7 +7,8 @@ Curitiba - PR<br>
 **E-mail:** ironherrero.design@gmail.com<br>
 **Github: [Spidernerd](https://github.com/spidernerd).**<br>
 **Facebook: [Iron Herrero](https://facebook.com/ironherrero).**<br>
-**Twitter: [@Iron_Herrero](https://twitter.com/Iron_Herrero).**<br><br>
+**Twitter: [@Iron_Herrero](https://twitter.com/Iron_Herrero).**<br>
+**Portfolio: [Behance](https://behance.net/ironherrero).**<br><br>
 **Sobre Mim:**<br>
 Sou apaixonado pelo universo do design e artes. Sou formado em ilustração e publicidade. Tenho conhecimento avançado de photoshop CS6, illustrator CS6 e artes gráfica.
 
