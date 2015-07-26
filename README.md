@@ -1,7 +1,6 @@
 # Currículo - Iron Herrero
 **Detalhes:**<br>
 Brasileiro, solteiro, 20 anos<br>
-Rua Francisco Fruet, 409<br>
 Curitiba - PR<br>
 **Telefone:** (41) 3077-3755<br>
 **E-mail:** ironherrero.design@gmail.com<br>
