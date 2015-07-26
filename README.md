@@ -30,11 +30,11 @@ Basico, Avançado e em constante atualização
 **Cargo:** Programador e Designer<br>
 **Principais atividades:** Criação visual e programação do aplicativo.<br>
 ****
-**2010 - atualmente | Programador Full time**<br>
+**2010 - atualmente | Programador Full time Freela**<br>
 **Cargo:** Programação<br>
 **Principais atividades:** Construção de sistemas, sites, E-commerce.<br><br>
 ****
-**2008 - atualmente | Designer Gráfico e Ilustrador**<br>
+**2008 - atualmente | Designer Gráfico e Ilustrador Freela**<br>
 **Cargo:** Designer e Ilustrador<br>
 **Principais atividades:** Criação de mascotes, papelaria, logos e Banners web.<br><br>
 
@@ -48,4 +48,4 @@ Basico, Avançado e em constante atualização
 7. Responsável.
 
 ### Nas horas livres:
-Jogador profissional de Leaguen of legend e Country-Striker 1.6, fã de bibliotecas e Frameworks Javascript. 
+Jogador profissional de Poker e Country-Striker 1.6, fã de bibliotecas e Frameworks Javascript. 
