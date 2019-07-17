@@ -1,8 +1,8 @@
 # Currículo - Iron Herrero
 **Detalhes:**<br>
-Brasileiro, solteiro, 20 anos<br>
+Brasileiro, solteiro, 24anos<br>
 Curitiba - PR<br>
-**Telefone:** (41) 3077-3755<br>
+**Telefone:** (41) 997846305<br>
 **E-mail:** ironherrero.design@gmail.com<br>
 **Github: [Spidernerd](https://github.com/spidernerd).**<br>
 **Facebook: [Iron Herrero](https://facebook.com/ironherrero).**<br>
