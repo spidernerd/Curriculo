@@ -39,12 +39,10 @@ Basico, Avançado e em constante atualização
 
 ## Qualificações e Atividades Complementares:
 1. Conhecimento em *Photoshop*, *Illustrator*, *Gestalt*, *Teoria das cores*, *Geometria* e *Matemática*.<br>
-2. *HTML*, *CSS*, *Javascript*, *Jquery*, *Less*, *PHP*, *MySQL*, *Git*, *Nodejs* e *Yeoman*.
-3. *Espanhol* médio, *Inglês* básico.
+2. *HTML*, *CSS*, *Javascript*, *Jquery*, *Less*, *PHP*, *MySQL*, *Git*, *Nodejs*, *REST API* e *Yeoman*.
+3. *Espanhol* médio, *Inglês* intermediário.
 4. Autodidata em Programação.
 5. Ótimo trabalho em equipe.
 6. Proativo.
 7. Responsável.
 
-### Nas horas livres:
-Jogador profissional de Poker e Country-Striker 1.6, fã de bibliotecas e Frameworks Javascript. 
